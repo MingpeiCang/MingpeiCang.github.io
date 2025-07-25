@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a PhD student in Intelligent Manufacturing at the Hong Kong University of Science and Technology (HKUST), where I work on high-precision projection stereolithography and mechanical metamaterials. My research combines optics, materials, and mechanical design to push the limits of additive manufacturing. I blog (occasionally) about 3D printing, microfabrication, and design optimization.
+        I'm a PhD candidate in Smart Manufacturing at the Hong Kong University of Science and Technology, where I work on high-precision projection stereolithography and mechanical metamaterials. My research combines optics, materials, and mechanical design to push the limits of additive manufacturing. 
 
-        My research focuses on advancing high-precision projection stereolithography (PµSL), with special attention to sub-pixel resolution control, real-time in-situ monitoring, and the design of functional microstructures and mechanical metamaterials. I develop models and systems that enable assembly-free fabrication of micro mechanisms, high-resolution ceramic microfluidics, and bioinspired lattice structures for load-bearing and biomedical applications.
+        My research focuses on enabling sub-pixel feature control in PµSL printing, developing real-time in-situ monitoring systems, and designing high-performance lattice structures for structural and biomedical use. 
 
-        I'm always open to collaboration with researchers and engineers working on novel manufacturing methods, mechanical design, or computational modeling. Please reach out to collaborate! XD
+        I'm always open to collaboration with researchers and engineers working on novel manufacturing methods, mechanical design, or computational modeling. Please reach out to collaborate!
     design:
       columns: '1'
   - block: collection

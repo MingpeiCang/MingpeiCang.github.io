@@ -12,7 +12,7 @@ address:
   # postcode: '94305'
   country: United States
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
+summary: How sub-pixel positive & negative feature are achieved in DLP 3D printing.
 abstract: 'During projection stereolithography, the diffusion of reaction agents and Gaussian pixel radiance make it challenging to 3D print features close to the nominal optical resolution. A multi-factor model that precisely predicts the photopolymerization process in temporal and spatial domain remain elusive. Here, we developed a reaction-diffusion model involving the effects of Gaussian pixel radiance, nanoparticle scattering, and radical diffusion to predict as well as visualize the reaction with sub-pixel level spatial resolution. Based on this model, we developed a novel grayscale compensation and segmentation exposure strategy, which, for the first time, enabled the fabrication of negative features of 0.8 pixel-size and positive features of 0.2 pixel-size. We also found it possible to achieve continuous production of parts with mere baseline top-down printing system, eliminating layer artifacts without the need of oxygen permeable membrane, nonreactive fluid bed or acoustic air-volume modulation. Our method successfully fabricates assembly-free planetary gears and microchannels.'
 
 # Talk start and end times.
@@ -63,14 +63,14 @@ projects:
   - example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
+{{% /callout %}} -->
 
-Slides can be added in a few ways:
+<!-- Slides can be added in a few ways:
 
 - **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->

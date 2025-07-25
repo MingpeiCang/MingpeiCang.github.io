@@ -45,4 +45,5 @@ abstract: Piezoelectric biomaterials, capable of converting electrical energy to
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0927796X24001062
+featured: true
 ---

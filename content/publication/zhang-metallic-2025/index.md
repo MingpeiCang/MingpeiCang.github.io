@@ -35,4 +35,5 @@ abstract: Plate lattices possess promising stiffness and yielding strength; howe
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0264127524009195
+featured: true
 ---

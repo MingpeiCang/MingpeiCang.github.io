@@ -6,7 +6,8 @@
 # Website name
 title: Mingpei Cang
 # Website URL
-baseURL: 'https://example.com/'
+# baseURL: 'https://example.com/'
+baseURL: 'https://mingpeicang.github.io/'
 
 ############################
 ## LANGUAGE
