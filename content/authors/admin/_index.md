@@ -47,9 +47,9 @@ profiles:
   #   url: https://scholar.google.com/
 
 interests:
-  - High-resolution SLA 3D printing
-  - In-situ monitoring of SLA 3D printing
-  - Mechanical metamaterials
+  - High-resolution projection stereolithography
+  - In-situ monitoring of projection stereolithography
+  - Mechanical and multifunctional metamaterials
 
 # education:
 #   - area: PhD Artificial Intelligence
@@ -91,7 +91,9 @@ education:
     date_end: 2026-08-31
     summary: |
       Academy of Interdisciplinary Studies
+
       Supervised by Dr. Huachen Cui and Prof. Michael Yu Wang.
+
       Expected to graduate in Aug. 2026.
   # - area: Exchange Student in Smart Manufacturing
   #   institution: The Hong Kong University of Science and Technology (Guangzhou)
@@ -105,8 +107,11 @@ education:
     date_end: 2021-06-30
     summary: |
       Qian Lingxi Elite Program
+
       Average grade: 90.1/100, Rank: 3/33
+
       Supervised by Prof. Yiqiang Wang.
+
       Courses included:
       - Solid Mechanics
       - Mechanics of Materials
@@ -153,8 +158,8 @@ skills:
         description: 'Abaqus'
         # percent: 40
         icon: circle-stack
-      - name: 3D Printer development
-        description: 'DLP Projection stereolithography systems'
+      - name: 3D Printing
+        description: 'DLP Projection stereolithography systems: hardware/software/material'
         # percent: 80
         icon: chart-bar
 

@@ -35,7 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a PhD candidate in Smart Manufacturing at the Hong Kong University of Science and Technology, where I work on high-precision projection stereolithography and mechanical metamaterials. My research combines optics, materials, and mechanical design to push the limits of additive manufacturing. 
+        I'm a PhD candidate in Smart Manufacturing at the Hong Kong University of Science and Technology, where I work on high-precision projection stereolithography and mechanical metamaterials under supervison of Dr. Huachen Cui and Prof. Michael Yu Wang.
 
         My research focuses on enabling sub-pixel feature control in PµSL printing, developing real-time in-situ monitoring systems, and designing high-performance lattice structures for structural and biomedical use. 
 
