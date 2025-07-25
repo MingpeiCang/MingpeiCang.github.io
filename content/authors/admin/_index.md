@@ -86,7 +86,7 @@ interests:
 
 education:
   - area: PhD in Smart Manufacturing
-    institution: The Hong Kong University of Science and Technology (HKUST)
+    institution: The Hong Kong University of Science and Technology
     date_start: 2021-09-01
     date_end: 2026-08-31
     summary: |
@@ -99,14 +99,19 @@ education:
   #   date_end: 
   #   summary: |
   #     Systems Hub
-  - area: Bachelor of Engineering in Engineering Mechanics
-    institution: Dalian University of Technology (DUT)
+  - area: BEng in Engineering Mechanics
+    institution: Dalian University of Technology
     date_start: 2017-09-01
     date_end: 2021-06-30
     summary: |
       Qian Lingxi Elite Program
       Average grade: 90.1/100, Rank: 3/33
       Supervised by Prof. Yiqiang Wang.
+      Courses included:
+      - Solid Mechanics
+      - Mechanics of Materials
+      - Computational Mechanics 
+
 # work:
 #   - position: Director of Cloud Infrastructure
 #     company_name: GenCoin

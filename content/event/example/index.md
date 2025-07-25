@@ -1,31 +1,32 @@
 ---
-title: Example Talk
+title: Achieving Sub-pixel Level Feature Size for Projection Stereolithography via Precise Spatial and Temporal Control of Photopolymerization
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Solid freeform fabrication
+event_url: https://www.sffsymposium.org/
 
-location: Hugo Blox Builder HQ
+location: AT&T Hotel and Conference Center, Austin, TX, USA
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  # street: 450 Serra Mall
+  city: Austin
+  region: TX
+  # postcode: '94305'
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'During projection stereolithography, the diffusion of reaction agents and Gaussian pixel radiance make it challenging to 3D print features close to the nominal optical resolution. A multi-factor model that precisely predicts the photopolymerization process in temporal and spatial domain remain elusive. Here, we developed a reaction-diffusion model involving the effects of Gaussian pixel radiance, nanoparticle scattering, and radical diffusion to predict as well as visualize the reaction with sub-pixel level spatial resolution. Based on this model, we developed a novel grayscale compensation and segmentation exposure strategy, which, for the first time, enabled the fabrication of negative features of 0.8 pixel-size and positive features of 0.2 pixel-size. We also found it possible to achieve continuous production of parts with mere baseline top-down printing system, eliminating layer artifacts without the need of oxygen permeable membrane, nonreactive fluid bed or acoustic air-volume modulation. Our method successfully fabricates assembly-free planetary gears and microchannels.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-08-13T16:30:00Z'
+date_end: '2025-08-13T16:50:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
 authors:
-  - admin
+  - Mingpei Cang
+  - Huachen Cui
 
 tags: []
 
@@ -41,17 +42,17 @@ image:
 #    icon_pack: fab
 #    name: Follow
 #    url: https://twitter.com/georgecushen
-url_code: 'https://github.com'
-url_pdf: ''
-url_slides: 'https://slideshare.net'
-url_video: 'https://youtube.com'
+# url_code: 'https://github.com'
+# url_pdf: ''
+# url_slides: 'https://slideshare.net'
+# url_video: 'https://youtube.com'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+# slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

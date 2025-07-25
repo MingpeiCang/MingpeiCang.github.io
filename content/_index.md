@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm a PhD student in Intelligent Manufacturing at the Hong Kong University of Science and Technology (HKUST), where I work on high-precision projection stereolithography and mechanical metamaterials. My research combines optics, materials, and mechanical design to push the limits of additive manufacturing. I blog (occasionally) about 3D printing, microfabrication, and design optimization.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research focuses on advancing high-precision projection stereolithography (PµSL), with special attention to sub-pixel resolution control, real-time in-situ monitoring, and the design of functional microstructures and mechanical metamaterials. I develop models and systems that enable assembly-free fabrication of micro mechanisms, high-resolution ceramic microfluidics, and bioinspired lattice structures for load-bearing and biomedical applications.
+
+        I'm always open to collaboration with researchers and engineers working on novel manufacturing methods, mechanical design, or computational modeling. Please reach out to collaborate! XD
     design:
       columns: '1'
   - block: collection
