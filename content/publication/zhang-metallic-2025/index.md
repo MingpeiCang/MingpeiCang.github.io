@@ -1,8 +1,8 @@
 ---
 title: Metallic perforated plate lattices with superior buckling strength 
 authors:
-- Lei Zhang
-- Mingpei Cang
+- Lei Zhang#
+- Mingpei Cang#
 - Junhao Ding
 - Winston Wai Shing Ma
 - Xiangyang Zhu
@@ -38,14 +38,14 @@ links:
 featured: true
 ---
 
-My contribution in this work: 
+## My contribution in this work: 
 
 Methodology and Investigation
-- Geometric modelling of plate lattice structures with perforation at different relative densities 
-- linear & nonlinear buckling analysis (including periodic unit cell and 4*4*4 unit cell array)
-- Postprocessing of FEM results, finding the optimal perforation location
+- Geometric modelling of plate lattice structures with perforation at different relative densities.
+- Linear & nonlinear buckling analysis (including periodic unit cell and 4x4x4 unit cell array).
+- Postprocessing of FEM results, finding the optimal perforation location.
 - Experiment design of quasi-static uniaxial compression test.
 
 Writing
-- Original draft
+- Original draft.
 - Review & editing.

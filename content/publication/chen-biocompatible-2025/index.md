@@ -48,12 +48,14 @@ links:
 featured: true
 ---
 
-My contribution in this work: 
+## My contribution in this work: 
 
-Fig. 1. Geometric characteristics analysis and design of bone-mimicking lattices
-- Processing μCT model for principal curvatures analysis and visualization
-- Designing bone-mimicking scaffolds based on TMPS* at different relative densities
+Works in Figure 1 
+- Processing μCT model for principal curvatures analysis and visualization.
+- Designing bone-mimicking scaffolds based on TMPS* at different relative densities.
 
 Writing
-- Section 2.1 Design of bone-mimicking piezoelectric lattices
-- Corresponding sections in supplementary materials
+- Section 2.1 Design of bone-mimicking piezoelectric lattices.
+- Corresponding sections in supplementary materials.
+
+*TPMS: Triply Periodic Minimal Surface

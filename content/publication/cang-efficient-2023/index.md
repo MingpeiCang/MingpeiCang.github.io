@@ -35,7 +35,7 @@ links:
   url: https://www.tandfonline.com/doi/full/10.1080/0305215X.2022.2163239
 ---
 
-My contribution in this work: 
+## My contribution in this work: 
 
 Methodology and Investigation
 - Geometric modelling of lattice structures with non-uniform struts based on implicit function.
@@ -45,5 +45,5 @@ Methodology and Investigation
 - Experiment design of quasi-static uniaxial compression test.
 
 Writing
-- Original draft
+- Original draft.
 - Review & editing.
