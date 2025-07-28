@@ -1,5 +1,5 @@
 ---
-title: Metallic perforated plate lattices with superior buckling strength
+title: Metallic perforated plate lattices with superior buckling strength 
 authors:
 - Lei Zhang
 - Mingpei Cang
@@ -31,9 +31,21 @@ abstract: Plate lattices possess promising stiffness and yielding strength; howe
   lattices with the relative density range of 5.6%~37.1% were fabricated with micro
   laser powder bed fusion process. Compression testing results show that the proposed
   perforated plate lattices exhibit superior Young’s modulus and compressive strength
-  over shell and truss lattices in the considered relative density range.
+  over shell and truss lattices in the considered relative density range. Featured as the cover image in issue 249.
 links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0264127524009195
 featured: true
 ---
+
+My contribution in this work: 
+
+Methodology and Investigation
+- Geometric modelling of plate lattice structures with perforation at different relative densities 
+- linear & nonlinear buckling analysis (including periodic unit cell and 4*4*4 unit cell array)
+- Postprocessing of FEM results, finding the optimal perforation location
+- Experiment design of quasi-static uniaxial compression test.
+
+Writing
+- Original draft
+- Review & editing.

@@ -34,3 +34,16 @@ links:
 - name: URL
   url: https://www.tandfonline.com/doi/full/10.1080/0305215X.2022.2163239
 ---
+
+My contribution in this work: 
+
+Methodology and Investigation
+- Geometric modelling of lattice structures with non-uniform struts based on implicit function.
+- Linear buckling analysis of lattice core sandwich panels.
+- Optimization pipeline of non-uniform cross-sections of struts to maximum linear buckling strength.
+- Nonlinear analysis of the lattice core sandwich structures.
+- Experiment design of quasi-static uniaxial compression test.
+
+Writing
+- Original draft
+- Review & editing.
