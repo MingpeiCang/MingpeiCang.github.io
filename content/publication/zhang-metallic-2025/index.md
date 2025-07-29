@@ -16,6 +16,10 @@ publication_types:
 - article-journal
 publication: '*Materials & Design*'
 doi: 10.1016/j.matdes.2024.113544
+
+projects:
+- R02
+
 abstract: Plate lattices possess promising stiffness and yielding strength; however,
   their closed-cell topology dramatically increases the manufacturing difficulty.
   While introducing micro holes can effectively improve the manufacturability, design

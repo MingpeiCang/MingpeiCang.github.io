@@ -16,6 +16,10 @@ publication_types:
 - article-journal
 publication: '*Engineering Optimization*'
 doi: 10.1080/0305215X.2022.2163239
+
+projects:
+- R02
+
 abstract: Buckling failure is a major concern in lightweight lattice core sandwich
   structures (LCSSs). This study proposes an efficient method for designing LCSSs
   with superior buckling strength under uniaxial compression. In this approach, the
