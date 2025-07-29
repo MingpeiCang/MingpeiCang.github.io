@@ -39,6 +39,7 @@ featured: true
 projects:
 - R02
 ---
+## Featured as the cover image in journal Materials & Design issue 249
 
 ## My contribution in this work: 
 

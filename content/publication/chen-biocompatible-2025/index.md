@@ -47,6 +47,7 @@ links:
   url: https://linkinghub.elsevier.com/retrieve/pii/S0927796X24001062
 featured: true
 ---
+## Curvature analysis and design of bone-mimicking lattice structure 
 
 ## My contribution in this work: 
 
