@@ -1,7 +1,7 @@
 ---
 title: In-situ monitoring of SLA
 draft: false
-date: 2023-9-1
+date: 2023-08-01
 tags:
   - Stereolithography
   - In Situ Monitoring

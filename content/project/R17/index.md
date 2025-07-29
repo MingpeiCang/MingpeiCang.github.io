@@ -1,7 +1,7 @@
 ---
 title: High resolution projection stereolithography
 draft: false
-date: 2024-4-1
+date: 2024-04-01
 tags:
   - Stereolithography
   - High resolution printing 

@@ -1,7 +1,7 @@
 ---
 title: Optimization of buckling strength for thin struts and plates
 draft: false
-date: 2021-9-1
+date: 2021-09-01
 tags:
   - Buckling strength
   - In Situ Monitoring
