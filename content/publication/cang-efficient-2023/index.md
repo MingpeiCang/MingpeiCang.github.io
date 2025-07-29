@@ -2,9 +2,9 @@
 title: An efficient method for design of lattice core sandwich structures with superior
   buckling strength under compression
 authors:
-- Mingpei Cang
-- Lei Zhang
-- Yiqiang Wang
+- Mingpei Cang#
+- Lei Zhang#
+- Yiqiang Wang*
 - Jin Fu
 - Zhen Luo
 - Zhan Kang

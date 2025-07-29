@@ -8,8 +8,8 @@ authors:
 - Xiangyang Zhu
 - Yang Lu
 - Xu Song
-- Huachen Cui
-- Michael Yu Wang
+- Huachen Cui*
+- Michael Yu Wang*
 date: '2025-01-01'
 publishDate: '2025-07-24T15:47:37.133312Z'
 publication_types:

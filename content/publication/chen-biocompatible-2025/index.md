@@ -2,9 +2,9 @@
 title: Biocompatible piezoelectric lattice materials with ultrasound-regulated multimodal
   responses
 authors:
-- Annan Chen
-- Jin Su
-- Muran Zhou
+- Annan Chen#
+- Jin Su#
+- Muran Zhou#
 - Mingpei Cang
 - Yinjin Li
 - Yunsong Shi
@@ -16,10 +16,10 @@ authors:
 - Yusheng Shi
 - Jüergen Röedel
 - Huachen Cui
-- Haibo Zhang
-- Kun Zhou
-- Jian Lu
-- Chunze Yan
+- Haibo Zhang*
+- Kun Zhou*
+- Jian Lu*
+- Chunze Yan*
 date: '2025-01-01'
 publishDate: '2025-07-24T15:47:37.140977Z'
 publication_types:
