@@ -122,7 +122,7 @@ work:
     company_name: Materials Science and Engineering R Reports
     company_url: 'https://www.sciencedirect.com/journal/materials-science-and-engineering-r-reports'
     date_start: 2024-12-01
-    date_end: ''
+    # date_end: ''
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -133,7 +133,7 @@ work:
     company_name: Virtual and Physical Prototyping
     company_url: 'https://www.tandfonline.com/journals/nvpp20'
     date_start: 2025-05-01
-    date_end: ''
+    # date_end: ''
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -144,7 +144,7 @@ work:
     company_name: Thin-Walled Structures
     company_url: 'https://www.sciencedirect.com/journal/thin-walled-structures'
     date_start: 2025-03-01
-    date_end: ''
+    # date_end: ''
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
