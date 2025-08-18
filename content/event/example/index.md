@@ -66,6 +66,10 @@ projects:
   - example
 ---
 
+![My oral presentation](photo_at_the_event.jpg "My oral presentation")
+
+
+
 <!-- {{% callout note %}}
 Click on the **Slides** button above to view the built-in slides feature.
 {{% /callout %}} -->

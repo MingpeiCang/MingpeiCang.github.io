@@ -1,17 +1,18 @@
 ---
-title: Optimization of buckling strength for thin struts and plates
+title: Optimization of manufacturability and compression strength for open-cell plates lattices
 draft: false
-date: 2021-09-01
+date: 2022-09-01
 tags:
-  - Buckling strength
+  - Design for additive manufacturing
   - Mechanical metamaterials
   - Powder bed fusion
 ---
 
-This project focuses on analysis and optimization of thin struts and plates in lattice core sandwich panels and periodic structures (mechanical metamaterials). I use struts with freeform cross-section to construct lattice cores with 20% increase in buckling strength. I designed perforations on thin plates that can increase linear buckling strength of plate lattice structures. Those designs were verified by uniaxial compression tests of samples fabricated by powder-bed fusion.
+This project focuses on design and analysis of lightweight, open-cell plates lattice structures with high stiffness, strength, and manufacturability. Plate lattice structures outperform truss and shell lattice structures in terms of stiffness and strengh, but the closed-cell geometry greatly limits its manufacturability and application. On the other hand, the thin plates are prone to buckling failure at low relative density.
+
+I developed a methodology to find optimal location to make cutouts on thin plates that, counterintuitively, can increase linear buckling strength of perforated plate lattice structures. The high stiffness, strength, and manufacturability of the designed plate lattice structures were verified by (1) single unit cell finite element analysis with periodic boundary condition; (2) nonlinear multi-cell finite element analysis; and (3) uniaxial compression tests of samples fabricated by laser powder-bed fusion (SS316L).
 
 Publications related to this project:
-- 10.1016/j.matdes.2024.113544
 - 10.1080/0305215X.2022.2163239
 
 

@@ -1,9 +1,9 @@
 ---
-title: High resolution projection stereolithography
+title: High resolution projection stereolithography via process optimization
 draft: false
 date: 2024-04-01
 tags:
-  - Stereolithography
+  - 3D printing
   - High resolution printing 
   - Assembly-free multibody mechanisms
 ---
