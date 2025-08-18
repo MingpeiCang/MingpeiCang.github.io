@@ -1,10 +1,10 @@
 ---
-title: In-situ monitoring of stereolithography: printing defects and dimension mismatch
+title: In-situ monitoring of stereolithography - printing defects and dimension mismatch
 draft: false
 date: 2023-08-01
 tags:
-  - 3D printing
-  - In Situ Monitoring
+  - In-situ Monitoring
+  - Stereolithography
   - Close-loop control
 ---
 
