@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 仓铭培
+title: Mingpei Cang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -47,9 +47,8 @@ profiles:
   #   url: https://scholar.google.com/
 
 interests:
-  - High-resolution projection stereolithography
-  - In-situ monitoring of projection stereolithography
-  - Mechanical and multifunctional metamaterials
+  - Projection stereolithography
+  - Lattice structures design
 
 # education:
 #   - area: PhD Artificial Intelligence
@@ -118,33 +117,33 @@ education:
       - Computational Mechanics 
 
 work:
-  - position: Peer reviewer of Journal Article
+  - position: Peer reviewer 
     company_name: Materials Science and Engineering R Reports
     company_url: 'https://www.sciencedirect.com/journal/materials-science-and-engineering-r-reports'
     date_start: 2024-12-01
-    # date_end: ''
+    date_end: 2025-04-01
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-  - position: Peer reviewer of Journal Article
+  - position: Peer reviewer 
     company_name: Virtual and Physical Prototyping
     company_url: 'https://www.tandfonline.com/journals/nvpp20'
     date_start: 2025-05-01
-    # date_end: ''
+    date_end: 2025-06-01
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-  - position: Peer reviewer of Journal Article
+  - position: Peer reviewer 
     company_name: Thin-Walled Structures
     company_url: 'https://www.sciencedirect.com/journal/thin-walled-structures'
     date_start: 2025-03-01
-    # date_end: ''
+    date_end: 2025-05-01
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -159,34 +158,38 @@ skills:
       - name: Programming
         description: 'Python, Matlab'
         # percent: 80
-        icon: code-bracket
+        icon: 💻
+        # icon: code-bracket💻
       - name: Geometry modelling
         description: 'nTopology, Autodesk Inventor'
         # percent: 100
-        icon: chart-bar
+        icon: ⚙️
+        # icon: chart-bar
       - name: Finite element analysis
-        description: 'Abaqus'
+        description: 'Abaqus, Comsol'
         # percent: 40
-        icon: circle-stack
+        icon: 🌉
+        # icon: circle-stack
       - name: 3D Printing
         description: 'DLP Projection stereolithography systems: hardware/software/material'
         # percent: 80
-        icon: chart-bar
+        icon: circle-stack
+        # icon: chart-bar
 
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Cats
-        description: ''
+        description: 'I cofounded a student club for taking care of stray cats in campus (feeding, neutering, adoption). Now we have more than 700 club members!'
         percent: 100
         icon: cat
       - name: Photography
-        description: ''
-        percent: 90
+        description: 'I started learning photography since 2017. Now it has become a hobby complementary to my research interest (DLP projection SLA). See some of my works in Instagram!'
+        percent: 100
         icon: camera
       - name: Hiking
-        description: ''
+        description: 'I enjoy outdoors. Both in nature and on city streets.'
         percent: 80
         icon: person-simple-walk
 
@@ -237,29 +240,33 @@ skills:
 languages:
   - name: Mandarin Chinese
     percent: 100 # Inferred from 'native'
-  - name: English
+  - name: English (for work)
     percent: 80 # Inferred from 'fluent (IELTS: 7.5)'
 
 
-# Awards.
+Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 # awards:
-#   - title: Neural Networks and Deep Learning
-#     url: https://www.coursera.org/learn/neural-networks-deep-learning
-#     date: '2023-11-25'
-#     awarder: Coursera
-#     icon: coursera
-#     summary: |
-#       I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-#   - title: Blockchain Fundamentals
-#     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-#     date: '2023-07-01'
-#     awarder: edX
-#     icon: edx
-#     summary: |
-#       Learned:
+  - title: Postgraduate scholarship
+    date: '2021-09-01'
+    awarder: Fok Ying Tung Graduate School of HKUST
+    # icon: coursera
+    summary: |
+      I received postgraduate schorship during my PhD study.
+  - title: Outstanding graduate of Dalian City
+    date: '2021-06-01'
+    awarder: Department of Education of Dalian
+    # icon: edx
+    summary: |
+      I received outstanding graduate of Dalian city when I finished my undergraduate study. 
+  - title: National scholarship
+    date: '2019-11-01'
+    awarder: Ministry of Education of China
+    # icon: edx
+    summary: |
+      I was among the top 10% students during my undergraduate study in Dalian Univeristy of Technology. 
 #       - Synthesize your own blockchain solutions
 #       - Gain an in-depth understanding of the specific mechanics of Bitcoin
 #       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
@@ -276,6 +283,6 @@ languages:
 
 ## About Me
 
-Mingpei Cang is a PhD candidate in smart manufacturing at the Hong Kong University of Science and Technology. His research interests include process optimization of high-resolution projection SLA 3D printer, development of in-situ monitoring solutions for SLA 3D printing, and design & analysis of mechanical metamaterials.  
+Mingpei Cang is a PhD candidate in smart manufacturing at the Hong Kong University of Science and Technology. His research interests include process optimization of high-resolution projection SLA 3D printer, development of in-situ monitoring solutions for SLA 3D printing, and design of mechanical metamaterials.  
 
 <!-- Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
