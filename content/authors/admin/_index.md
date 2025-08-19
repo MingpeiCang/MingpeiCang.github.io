@@ -244,11 +244,10 @@ languages:
     percent: 80 # Inferred from 'fluent (IELTS: 7.5)'
 
 
-Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-# awards:
+awards:
   - title: Postgraduate scholarship
     date: '2021-09-01'
     awarder: Fok Ying Tung Graduate School of HKUST
