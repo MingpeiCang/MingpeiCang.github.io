@@ -12,4 +12,7 @@ This project focuses on developing in-situ monitoring methods for Stereolithogra
 
 We're on track to publish the first paper of this project later this year, so stay tuned!
 
+Publications related to this project:
+- Coming soon.
+
 <!--more-->

@@ -8,9 +8,13 @@ tags:
   - Assembly-free multibody mechanisms
 ---
 
-This project focuses on high-resolution SLA, with an emphasis on the direct printing of assembly-free micro-transmission mechanisms. 
+In this project, I developed a novel method to overcome the fundamental resolution limits in projection stereolithography (SLA) 3D printing, enabling the fabrication of features smaller than a single hardware pixel.
 
-My latest research outcome in this area will be published soon.
+Impact: This work redefines the print capabilities of projection SLA. The technique enables the direct printing of complex, assembly-free components from both polymers and ceramics with unprecedented precision, eliminates the need for post-processing and assembly, and makes previously impossible designs (such as preassembled gearsets) achievable.
 
+![Project Overview](R11-POverview.png "Project Overview")
+
+Publications related to this project:
+- Coming soon.
 
 <!--more-->

@@ -66,7 +66,7 @@ projects:
   - example
 ---
 
-![My oral presentation](photo_at_the_event.jpg "My oral presentation")
+![My oral presentation](photo_at_the_event.jpeg "My oral presentation")
 
 
 

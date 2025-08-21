@@ -8,12 +8,25 @@ tags:
   - Powder bed fusion
 ---
 
-This project focuses on design and analysis of lightweight, open-cell plates lattice structures with high stiffness, strength, and manufacturability. Plate lattice structures outperform truss and shell lattice structures in terms of stiffness and strengh, but the closed-cell geometry greatly limits its manufacturability and application. On the other hand, the thin plates are prone to buckling failure at low relative density.
+In this project, we developed and validated a novel design methodology to enhance the manufacturability and buckling strength of metallic plate lattices. The core challenge was to introduce micro-holes for powder removal in additive manufacturing without the typical reduction in mechanical performance, particularly against buckling failure in low-density structures.
 
-I developed a methodology to find optimal location to make cutouts on thin plates that, counterintuitively, can increase linear buckling strength of perforated plate lattice structures. The high stiffness, strength, and manufacturability of the designed plate lattice structures were verified by (1) single unit cell finite element analysis with periodic boundary condition; (2) nonlinear multi-cell finite element analysis; and (3) uniaxial compression tests of samples fabricated by laser powder-bed fusion (SS316L).
+![Project Graphic Abstract](R02-GAbstract.png "Project Graphic Abstract")
+
+# Theoretical & Numerical Method Development:
+⦁ We established a design framework rooted in a Rayleigh quotient-based theoretical criterion to identify the optimal locations for micro-holes that actively increase the critical buckling load of a plate.
+⦁ To implement this, we developed a robust numerical method to evaluate the second-order derivatives of the buckling eigenmode. This was achieved by directly utilizing the shape functions of 8-node second-order shell elements (S8R) within Abaqus.
+
+# Finite Element Analysis & Design Optimization:
+⦁ We applied this methodology to design optimized Simple Cubic (SC), Body-Centered Cubic (BCC), and Face-Centered Cubic (FCC) perforated plate lattices.
+⦁ Using Abaqus/Standard and Abaqus/Explicit, we performed a comprehensive suite of simulations, including linear eigenvalue buckling on Representative Volume Element (RVE) models with periodic boundary conditions, nonlinear post-buckling analysis incorporating geometric and material nonlinearities, and large-deformation compression simulations on full-scale models.
+⦁ Our analysis successfully demonstrated that the optimized designs increased critical buckling stress by up to 15.1% compared to unperforated lattices, while maintaining comparable post-buckling compressive strength.
+
+# Experimental Validation & Characterization: (by our collaborators)
+⦁ We fabricated the optimized lattice specimens using μ-LPBF with SS316L powder.
+⦁ Through quasi-static compression testing, we experimentally verified that the fabricated lattices exhibit superior mechanical properties.
 
 Publications related to this project:
-- 10.1080/0305215X.2022.2163239
+- 10.1016/j.matdes.2024.113544
 
 
 <!--more-->
