@@ -5,12 +5,13 @@ date: 2021-09-01
 tags:
   - Lattice struture design
   - Buckling strength
+  - Mechanical metamaterials
   - Powder bed fusion
 ---
 
 This project focuses on analysis and optimization of thin struts in lattice core sandwich panels. Lightweight lattice cores are easy to fail by buckling due to its long slenderness ratio. We optimized thin struts in lattice core sandwich structures to improve buckling resistance. The key innovation was an efficient, bottom-up methodology that avoids computationally expensive optimizations on entire structures.
 
-![Project Graphic Abstract](R01-GAbstract.jpg "Project Graphic Abstract")
+![Project Graphic Abstract](featured.jpg "Project Graphic Abstract")
 
 # Methodology & Strut Optimization
 We developed an efficient, bottom-up design methodology to improve the buckling strength of lattice core sandwich structures. The strategy involved first identifying the optimal, non-uniform cross-sections of individual struts by maximizing their buckling eigenvalues using a Python-Abaqus scripted workflow. Strut profiles were modeled with a Fourier Series (FS) representation, and a key finding was that the optimal shapes are proportionally scalable, creating a reusable library of high-performance struts.

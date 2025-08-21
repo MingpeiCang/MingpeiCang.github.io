@@ -3,14 +3,15 @@ title: Optimization of manufacturability and compression strength for open-cell 
 draft: false
 date: 2022-09-01
 tags:
-  - Design for additive manufacturing
+  - Lattice struture design
   - Mechanical metamaterials
+  - Buckling strength
   - Powder bed fusion
 ---
 
 In this project, we developed and validated a novel design methodology to enhance the manufacturability and buckling strength of metallic plate lattices. The core challenge was to introduce micro-holes for powder removal in additive manufacturing without the typical reduction in mechanical performance, particularly against buckling failure in low-density structures.
 
-![Project Graphic Abstract](R02-GAbstract.png "Project Graphic Abstract")
+![Project Graphic Abstract](featured.png "Project Graphic Abstract")
 
 # Theoretical & Numerical Method Development:
 ⦁ We established a design framework rooted in a Rayleigh quotient-based theoretical criterion to identify the optimal locations for micro-holes that actively increase the critical buckling load of a plate.
