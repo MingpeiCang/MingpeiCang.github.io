@@ -11,7 +11,7 @@ In this project, I developed a novel method to overcome the fundamental resoluti
 
 Impact: This work redefines the print capabilities of projection SLA. The technique enables the direct printing of complex, assembly-free components from both polymers and ceramics with unprecedented precision, eliminates the need for post-processing and assembly, and makes previously impossible designs (such as preassembled gearsets) achievable.
 
-![Project Overview](featured.png "Project Overview")
+<!-- ![Project Overview](featured.png "Project Overview") -->
 
 Publications related to this project:
 - Coming soon.
