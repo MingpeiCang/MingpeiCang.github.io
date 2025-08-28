@@ -10,7 +10,7 @@ tags:
 
 In this project, I engineered advanced bone-mimicking scaffolds by integrating computational geometry analysis with implicit modeling techniques. My primary role was to define and replicate the precise topological features of native bone to create functionally superior lattice structures for tissue engineering.
 
-![Project Graphic Abstract](featured.png "Project Graphic Abstract")
+<!-- ![Project Graphic Abstract](featured.png "Project Graphic Abstract") -->
 
 # Advanced Geometric Analysis:
 ⦁ Processed high-resolution µCT scans of bone tissue to generate high-fidelity triangle meshes.
