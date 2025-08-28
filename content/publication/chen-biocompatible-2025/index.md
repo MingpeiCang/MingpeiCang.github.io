@@ -46,6 +46,8 @@ links:
 - name: URL
   url: https://linkinghub.elsevier.com/retrieve/pii/S0927796X24001062
 featured: true
+projects:
+- R18
 ---
 ## Curvature analysis and design of bone-mimicking lattice structure 
 
