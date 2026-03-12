@@ -11,9 +11,9 @@ zh:
   languageCode: zh-Hans
   languageName: 简体中文
   weight: 2
-  title: 仓明培
+  title: 仓铭培
   params:
-    description: 仓明培个人学术主页
+    description: 仓铭培个人学术主页
     locale:
       date_format: '2006年1月2日'
       time_format: '15:04'
