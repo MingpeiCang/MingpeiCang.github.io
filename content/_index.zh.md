@@ -41,24 +41,12 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: projects-lead
+    id: projects
     content:
-      title: 主导项目
+      title: 项目
       filters:
         folders:
           - project
-        tag: lead-project
-    design:
-      view: article-grid
-      columns: 3
-  - block: collection
-    id: projects-participating
-    content:
-      title: 参与项目
-      filters:
-        folders:
-          - project
-        tag: participating-project
     design:
       view: article-grid
       columns: 3
