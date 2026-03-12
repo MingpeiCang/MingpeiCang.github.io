@@ -9,6 +9,6 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+Python 生态中常用的数据分析与处理库，提供带标签的数据结构与高效计算能力。
 
 <!--more-->

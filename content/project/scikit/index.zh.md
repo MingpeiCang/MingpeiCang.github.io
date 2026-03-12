@@ -9,6 +9,6 @@ tags:
   - Markdown
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+scikit-learn 是基于 SciPy 构建的机器学习库，适用于分类、回归、聚类与模型评估。
 
 <!--more-->
