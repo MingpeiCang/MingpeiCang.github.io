@@ -61,6 +61,7 @@ sections:
       view: article-grid
       columns: 2
   - block: collection
+    id: papers
     content:
       title: 近期论文
       text: ""

@@ -8,9 +8,6 @@ main:
   - name: 报告
     url: /#talks
     weight: 12
-  - name: 动态
-    url: /#news
-    weight: 13
   - name: 经历
     url: experience/
     weight: 20
