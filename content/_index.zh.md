@@ -30,7 +30,7 @@ sections:
       title: '📚 我的研究'
       subtitle: ''
       text: |-
-        我是香港科技大学智能制造方向博士研究生，师从崔华辰博士和 Michael Yu Wang 教授，研究高精度投影光固化（Projection SLA）与力学超材料。
+        我是香港科技大学智能制造方向博士研究生，师从崔华辰博士和 Michael Yu Wang 教授，研究高精度面投影光固化（Projection SLA）与力学超材料。
 
         我的研究主要关注：
         1. 通过工艺优化实现高分辨率 SLA；

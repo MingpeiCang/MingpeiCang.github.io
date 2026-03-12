@@ -39,7 +39,7 @@ profiles:
     url: https://www.instagram.com/mingpei_75/
 
 interests:
-  - 投影光固化（Projection SLA）
+  - 面投影光固化（Projection SLA）
   - 点阵结构设计
 
 education:
@@ -101,7 +101,7 @@ skills:
         description: 'Abaqus, Comsol'
         icon: 🌉
       - name: 3D 打印
-        description: 'DLP 投影光固化系统：硬件 / 软件 / 材料'
+        description: 'DLP 面投影光固化系统：硬件 / 软件 / 材料'
         icon: circle-stack
 
   - name: 兴趣爱好
@@ -113,7 +113,7 @@ skills:
         percent: 100
         icon: cat
       - name: 摄影
-        description: '从 2017 年开始学习摄影，这也逐渐成为与我研究方向（DLP 投影光固化）互补的长期兴趣。部分作品发布在 Instagram。'
+        description: '从 2017 年开始学习摄影，这也逐渐成为与我研究方向（DLP 面投影光固化）互补的长期兴趣。部分作品发布在 Instagram。'
         percent: 100
         icon: camera
       - name: 徒步
@@ -148,4 +148,4 @@ awards:
 
 ## 关于我
 
-仓明培是香港科技大学智能制造方向博士研究生。研究兴趣包括：高分辨率投影光固化 3D 打印的工艺优化、SLA 过程原位监测方案开发，以及力学超材料结构设计。
+仓明培是香港科技大学智能制造方向博士研究生。研究兴趣包括：高分辨率面投影光固化 3D 打印的工艺优化、SLA 过程原位监测方案开发，以及力学超材料结构设计。
