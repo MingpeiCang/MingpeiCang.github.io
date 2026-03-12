@@ -3,15 +3,15 @@ title: In-situ monitoring of stereolithography - printing defects and dimension 
 draft: false
 date: 2023-08-01
 tags:
-  - SLA in-situ Monitoring 
-  - Stereolithography 3D printing
+  - SLA 原位监测
+  - 立体光固化 3D 打印
 ---
 
-This project focuses on developing in-situ monitoring methods for Stereolithography (SLA) 3D printing, with an emphasis on porosity detection and 3D reconstruction of printed part. 
+本项目聚焦立体光固化（SLA）3D 打印过程的原位监测方法开发，重点关注孔隙缺陷识别与打印件三维重建。
 
-We're on track to publish the first paper of this project by the end of 2025, so stay tuned!
+目前正在推进相关研究，计划在 2025 年底前完成该方向的首篇论文发表。
 
-Publications related to this project:
+相关论文：
 - Coming soon.
 
 <!--more-->

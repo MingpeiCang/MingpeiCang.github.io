@@ -3,31 +3,27 @@ title: Optimization of manufacturability and compression strength for open-cell 
 draft: false
 date: 2022-09-01
 tags:
-  - Lattice struture design
-  - Mechanical metamaterials
-  - Buckling strength
-  - Powder bed fusion
+  - 点阵结构设计
+  - 力学超材料
+  - 屈曲强度
+  - 粉末床熔融
 ---
 
-In this project, we developed and validated a novel design methodology to enhance the manufacturability and buckling strength of metallic plate lattices. The core challenge was to introduce micro-holes for powder removal in additive manufacturing without the typical reduction in mechanical performance, particularly against buckling failure in low-density structures.
+本项目提出并验证了一种新方法，以同时提升金属穿孔板点阵的可制造性与抗屈曲性能。关键问题在于：增材制造中为排粉引入微孔通常会削弱力学性能，尤其在低密度结构中更易诱发屈曲失效。
 
-<!-- ![Project Graphic Abstract](featured.png "Project Graphic Abstract") -->
+### 理论与数值方法
+- 基于 Rayleigh quotient 判据建立设计框架，确定可主动提高板单元临界屈曲载荷的微孔最优位置。
+- 基于 Abaqus 的 8 节点二次壳单元（S8R）形函数，开发了稳健的二阶导数数值评估方法，用于屈曲模态敏感性分析。
 
-### Theoretical & Numerical Method Development:
-⦁ We established a design framework rooted in a Rayleigh quotient-based theoretical criterion to identify the optimal locations for micro-holes that actively increase the critical buckling load of a plate.
-⦁ To implement this, we developed a robust numerical method to evaluate the second-order derivatives of the buckling eigenmode. This was achieved by directly utilizing the shape functions of 8-node second-order shell elements (S8R) within Abaqus.
+### 有限元分析与优化
+- 将方法应用于 SC、BCC、FCC 三类穿孔板点阵设计。
+- 在 Abaqus/Standard 与 Abaqus/Explicit 中开展线性屈曲、非线性后屈曲（含几何与材料非线性）及大变形压缩仿真。
+- 结果表明：相较未穿孔基准结构，优化设计临界屈曲应力最高提升 15.1%，并保持相近后屈曲抗压强度。
 
-### Finite Element Analysis & Design Optimization:
-⦁ We applied this methodology to design optimized Simple Cubic (SC), Body-Centered Cubic (BCC), and Face-Centered Cubic (FCC) perforated plate lattices.
-⦁ Using Abaqus/Standard and Abaqus/Explicit, we performed a comprehensive suite of simulations, including linear eigenvalue buckling on Representative Volume Element (RVE) models with periodic boundary conditions, nonlinear post-buckling analysis incorporating geometric and material nonlinearities, and large-deformation compression simulations on full-scale models.
-⦁ Our analysis successfully demonstrated that the optimized designs increased critical buckling stress by up to 15.1% compared to unperforated lattices, while maintaining comparable post-buckling compressive strength.
+### 实验验证（合作团队完成）
+合作团队完成试样制备与压缩实验，实验趋势与数值预测一致，验证了该方法在“可制造性—力学性能”协同优化方面的有效性。
 
-### Experimental Validation & Characterization: (by our collaborators)
-⦁ We fabricated the optimized lattice specimens using μ-LPBF with SS316L powder.
-⦁ Through quasi-static compression testing, we experimentally verified that the fabricated lattices exhibit superior mechanical properties.
-
-Publications related to this project:
+相关论文：
 - 10.1016/j.matdes.2024.113544
-
 
 <!--more-->

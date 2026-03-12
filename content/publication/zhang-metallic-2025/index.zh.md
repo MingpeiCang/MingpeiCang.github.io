@@ -39,16 +39,16 @@ featured: true
 projects:
 - R02
 ---
-## Featured as the cover image in journal Materials & Design issue 249
+## 入选 journal *Materials & Design* 第 249 期封面
 
-## My contribution in this work: 
+## 我在该工作中的贡献
 
-Methodology and Investigation
-- Geometric modelling of plate lattice structures with perforation at different relative densities.
-- Linear & nonlinear buckling analysis (including periodic unit cell and 4x4x4 unit cell array).
-- Postprocessing of FEM results, finding the optimal perforation location.
-- Experiment design of quasi-static uniaxial compression test.
+方法与研究
+- 完成不同相对密度下穿孔板点阵结构的几何建模。
+- 完成线性与非线性屈曲分析（含周期单胞与 4×4×4 单胞阵列）。
+- 完成有限元结果后处理并识别最优穿孔位置。
+- 设计准静态单轴压缩实验方案。
 
-Writing
-- Original draft.
-- Review & editing.
+论文写作
+- 初稿撰写。
+- 修改与润色。

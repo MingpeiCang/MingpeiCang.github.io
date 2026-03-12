@@ -3,27 +3,24 @@ title: Optimization of buckling strength for truss lattice with freeform cross-s
 draft: false
 date: 2021-09-01
 tags:
-  - Lattice struture design
-  - Buckling strength
-  - Mechanical metamaterials
-  - Powder bed fusion
+  - 点阵结构设计
+  - 屈曲强度
+  - 力学超材料
+  - 粉末床熔融
 ---
 
-This project focuses on analysis and optimization of thin struts in lattice core sandwich panels. Lightweight lattice cores are easy to fail by buckling due to its long slenderness ratio. We optimized thin struts in lattice core sandwich structures to improve buckling resistance. The key innovation was an efficient, bottom-up methodology that avoids computationally expensive optimizations on entire structures.
+本项目聚焦点阵夹层结构中细长杆件的分析与优化。轻量化点阵芯层由于长细比高，容易发生屈曲失效。我们通过优化杆件非均匀截面，提升结构抗屈曲能力；核心创新是“自下而上”的高效设计流程，避免了整结构优化的高计算成本。
 
-<!-- ![Project Graphic Abstract](featured.jpg "Project Graphic Abstract") -->
+### 方法与杆件优化
+我们建立了高效的自下而上设计方法：先用 Python-Abaqus 脚本流程，以最大化屈曲特征值为目标，求解单根杆件的最优非均匀截面。杆件轮廓采用 Fourier Series（FS）参数化，发现最优形状具有比例可缩放性，可形成可复用的高性能杆件库。
 
-### Methodology & Strut Optimization
-We developed an efficient, bottom-up design methodology to improve the buckling strength of lattice core sandwich structures. The strategy involved first identifying the optimal, non-uniform cross-sections of individual struts by maximizing their buckling eigenvalues using a Python-Abaqus scripted workflow. Strut profiles were modeled with a Fourier Series (FS) representation, and a key finding was that the optimal shapes are proportionally scalable, creating a reusable library of high-performance struts.
+### 点阵设计与仿真
+我们构建了四类非均匀点阵芯层（Kagome、BCC、BCCZ、Six-fold），依据识别到的屈曲模态（1 阶或 2 阶）将均匀杆件替换为预优化杆件。Abaqus 的特征值屈曲与非线性后屈曲（Riks）分析表明：相较均匀结构，临界屈曲载荷提升约 16–21%。
 
-### Lattice Design & Simulation
-We designed four distinct non-uniform lattice cores (Kagome, BCC, BCCZ, and Six-fold) by strategically replacing uniform struts with pre-optimized shapes based on their specific, identified buckling modes (first or second-order). Comprehensive eigenvalue and nonlinear post-buckling (Riks method) analyses in Abaqus confirmed these designs achieved a 16-21% improvement in critical buckling load over uniform counterparts.
+### 实验验证
+我们采用 Selective Laser Sintering（SLS）以 Nylon 12 制备了 BCC 和 Six-fold 试样。准静态压缩实验显示：BCC 结构抗压强度提升 18.77%，Six-fold 提升 10.00%。同时，我们构建了考虑材料塑性和 80µm 表面粗糙层的高保真非线性有限元模型，与实验峰值载荷和失效模式吻合良好。
 
-### Experimental Validation
-We validated the designs by fabricating BCC and Six-fold specimens from Nylon 12 powder using Selective Laser Sintering (SLS). Quasi-static compression tests demonstrated a measured compressive strength improvement of 18.77% for the BCC structure and 10.00% for the Six-fold. We also developed a high-fidelity nonlinear FE model that incorporated material plasticity and a measured 80µm surface roughness layer, achieving excellent agreement with experimental peak loads and failure mechanisms.
-
-Publications related to this project:
+相关论文：
 - 10.1080/0305215X.2022.2163239
-
 
 <!--more-->

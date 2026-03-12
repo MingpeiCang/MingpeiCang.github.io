@@ -6,25 +6,20 @@ event_url: https://www.mrs.org/meetings-events/annual-meetings/2024-mrs-fall-mee
 
 location: Hynes Convention Center, Boston, MA, USA
 address:
-  # street: 450 Serra Mall
   city: Boston
   region: MA
-  # postcode: '94305'
   country: United States
 
 projects:
 - R17
 
-summary: Poster presentation in the 2024 MRS Fall Meeting & Exhibit
-abstract: 'Micro transmission mechanisms (μTMs) hold significant potential in the automobile, MEMS, and aerospace industries; however, their fabrication and assembly present challenges due to their diminutive size. Projection Micro Stereolithography (PμSL) offers a promising solution, achieving micron-level pixel resolution for efficient μTM fabrication. Nevertheless, the Gaussian distribution of pixel radiance in PμSL poses a limitation by causing unintended bonding of clearance between two workpieces, hindering assembly-free fabrication of μTMs. Increasing the designed clearance is one solution, yet it compromises the transmission efficiency and compactness of μTMs. Aiming to achieve assembly-free fabrication of μTMs with small clearance between workpieces, we propose an optimized additive manufacturing method for PμSL system. Firstly, we developed a model to simulate cured region based on pixel-level Gaussian irradiance distribution. Based on experiments of curing profile characterization in horizontal and depth directions, the model was calibrated per photosensitive resins and PμSL system. Our findings indicate that the unintended bonding of clearance results from the residual irradiance exceeding the critical exposure dose, initiating photopolymerization at gaps. To address this, we introduced a grayscale pixel compensation method to minimize overexposure and underexposure. Additionally, we implemented a novel exposure strategy, which divides the projection pattern into several segments and project them separately. This approach allows the residual irradiance at clearance to dissipate, preventing it from reaching the critical dose and thereby reducing the minimum achievable clearance to 34 µm (equivalent to the size of four pixels in our PμSL system), which is notably small given the Gaussian radius is six pixels in our PμSL system. Our method has proven effective in the assembly-free fabrication of various microstructures, including micro planetary herringbone gears, bar-linkage mechanisms, and microchannels, using a range of materials such as photo-sensitive resin, polymer-derived ceramics, and alumina ceramics. The proposed exposure strategy holds high potential for various applications, such as micro-transmission mechanisms, MEMS, and microfluidics.'
+summary: 在 2024 MRS Fall Meeting & Exhibit 的海报报告
+abstract: 'Micro transmission mechanisms (μTMs) 在汽车、MEMS 与航天等领域具有重要潜力，但其制造与装配因尺寸微小而面临挑战。面投影光固化微立体光刻（PμSL）可实现微米级像素分辨率，适用于 μTM 制造。然而，PμSL 中像素辐照度的高斯分布会导致间隙处非预期粘连，阻碍 μTM 的免装配制造。增大设计间隙虽然可缓解粘连，但会牺牲传动效率与结构紧凑性。针对该问题，我们提出了面向 PμSL 的优化增材制造方法：首先建立基于像素级高斯辐照分布的固化区域模型，并结合水平与深度方向固化轮廓实验进行树脂与系统标定；随后提出灰度像素补偿以抑制欠曝/过曝，并采用分段曝光策略，使间隙处残余辐照得以衰减，避免达到临界剂量。最终最小可实现间隙降低至 34 µm（对应系统 4 个像素）。该方法已在多类微结构（如 micro planetary herringbone gears、bar-linkage mechanisms、microchannels）与多材料体系中验证有效。'
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-12-05T20:00:00Z'
 date_end: '2024-12-05T22:00:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
 authors:
@@ -32,50 +27,12 @@ authors:
   - Huachen Cui
 
 tags: []
-
-# Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Banner of MRS24F'
+  caption: 'MRS24F 海报展示现场'
   focal_point: 'Center'
 
-#links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Follow
-#    url: https://twitter.com/georgecushen
-# url_code: 'https://github.com'
-# url_pdf: ''
-# url_slides: 'https://slideshare.net'
-# url_video: 'https://youtube.com'
-
-# Markdown Slides (optional).
-#   Associate this talk with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-# slides: ""
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-  - example
 ---
 
-![Me at the poster session](photo_at_the_event.jpg "Me at the poster session")
-
-<!-- {{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}} -->
-
-<!-- Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
+![海报展示现场](photo_at_the_event.jpg "海报展示现场")

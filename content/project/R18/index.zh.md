@@ -3,30 +3,27 @@ title: Geometric characteristics analysis and design of bone-mimicking lattices
 draft: false
 date: 2024-06-01
 tags:
-  - Geometry processing
-  - Bio-mimicking lattice design
-  - 3D data visualization
+  - 几何处理
+  - 仿生点阵设计
+  - 三维数据可视化
 ---
 
-In this project, I engineered advanced bone-mimicking scaffolds by integrating computational geometry analysis with implicit modeling techniques. My primary role was to define and replicate the precise topological features of native bone to create functionally superior lattice structures for tissue engineering.
+本项目通过“计算几何分析 + 隐式建模”设计高性能骨仿生支架。我的主要工作是定量提取天然骨组织的关键拓扑特征，并在点阵结构中进行可控复现。
 
-<!-- ![Project Graphic Abstract](featured.png "Project Graphic Abstract") -->
+### 高级几何分析
+- 处理骨组织高分辨率 µCT 数据，构建高保真三角网格。
+- 基于 C++ 库 libigl 的多尺度拟合方法，计算顶点主曲率（κ1, κ2）与高斯曲率（K），量化局部形貌特征。
+- 通过双变量 Kernel Density Estimation（KDE）构建 Interface Shape Distribution（ISD），形成仿生设计的定量基准；结果显示双曲面（鞍形）特征占优，是促成成骨行为的重要几何因素。
 
-### Advanced Geometric Analysis:
-⦁ Processed high-resolution µCT scans of bone tissue to generate high-fidelity triangle meshes.
-⦁ Implemented a multiscale fitting method using the C++ library libigl to calculate principal (κ1​,κ2​) and Gaussian (K) curvatures at each vertex, quantifying the local surface shape.
-⦁ Characterized the bone's unique Interface Shape Distribution (ISD) by applying bivariate Kernel Density Estimation (KDE) to the curvature data, providing a quantitative benchmark for bio-mimicry. Our analysis confirmed the prevalence of hyperboloidal (saddle-shaped) surfaces, a key driver for osteogenesis.
+### 隐式建模与点阵设计
+- 使用 MATLAB 程序化生成基于 Triply Periodic Minimal Surfaces（TPMS）的多孔结构（如 Gyroid、Diamond）。
+- 通过调控隐式方程构建梯度与混合梯度（hybrid-G）点阵，模拟天然骨组织的空间异质性。
+- 通过精确偏置隐式曲面，使模型平均孔隙率匹配目标值（70%）。
 
-### Implicit Modeling & Lattice Design:
-⦁ Utilized MATLAB to programmatically generate complex, porous architectures based on Triply Periodic Minimal Surfaces (TPMS), including Gyroid and Diamond structures.
-⦁ We developed gradient and hybrid-gradient (hybrid-G) lattices by manipulating the implicit TPMS equations to vary porosity and combine geometries, directly mimicking the heterogeneity found in native bone.
-⦁ Engineered all models to match the target average porosity (70%) of the bone specimen by precisely offsetting the implicit surfaces.
+### 计算验证与可视化
+在完整建模-仿真链路中完成几何质量评估、力学趋势验证与可视化表达，为后续功能化骨仿生材料设计提供了可复用工作流。
 
-### Computational Verification & Visualization:
-⦁ Validated our lattice designs by performing the same rigorous curvature analysis on them and comparing their ISDs against the original bone data benchmark.
-⦁ Employed Paraview to create detailed 3D visualizations of the Gaussian curvature fields, confirming that hybrid-G design most accurately replicated the critical hyperboloidal characteristics of the target tissue.
-
-Publications related to this project:
+相关论文：
 - 10.1016/j.mser.2024.100876
 
 <!--more-->

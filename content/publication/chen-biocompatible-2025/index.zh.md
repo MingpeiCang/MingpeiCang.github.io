@@ -49,16 +49,16 @@ featured: true
 projects:
 - R18
 ---
-## Curvature analysis and design of bone-mimicking lattice structure 
+## Curvature analysis and design of bone-mimicking lattice structure
 
-## My contribution in this work: 
+## 我在该工作中的贡献
 
-Works in Figure 1 
-- Processing μCT model for principal curvatures analysis and visualization.
-- Designing bone-mimicking scaffolds based on TMPS* at different relative densities.
+Figure 1 相关工作
+- 处理 μCT 模型并完成主曲率分析与可视化。
+- 基于 TPMS* 设计不同相对密度的骨仿生支架。
 
-Writing
-- Section 2.1 Design of bone-mimicking piezoelectric lattices.
-- Corresponding sections in supplementary materials.
+论文写作
+- 主文 Section 2.1（Design of bone-mimicking piezoelectric lattices）。
+- 补充材料对应章节。
 
 *TPMS: Triply Periodic Minimal Surface

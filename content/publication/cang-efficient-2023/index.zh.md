@@ -38,15 +38,15 @@ projects:
 - R01
 ---
 
-## My contribution in this work: 
+## 我在该工作中的贡献
 
-Methodology and Investigation
-- Geometric modelling of lattice structures with non-uniform struts based on implicit function.
-- Linear buckling analysis of lattice core sandwich panels.
-- Optimization pipeline of non-uniform cross-sections of struts to maximum linear buckling strength.
-- Nonlinear analysis of the lattice core sandwich structures.
-- Experiment design of quasi-static uniaxial compression test.
+方法与研究
+- 基于隐式函数完成非均匀杆件点阵结构的几何建模。
+- 完成点阵夹层结构的线性屈曲分析。
+- 构建非均匀杆件截面优化流程，以提升线性屈曲强度。
+- 完成点阵夹层结构非线性分析。
+- 设计准静态单轴压缩实验方案。
 
-Writing
-- Original draft.
-- Review & editing.
+论文写作
+- 初稿撰写。
+- 修改与润色。
