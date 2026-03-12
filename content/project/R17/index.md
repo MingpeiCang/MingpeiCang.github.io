@@ -5,6 +5,7 @@ date: 2024-04-01
 tags:
   - Stereolithography 3D printing
   - High resolution printing 
+  - lead-project
 ---
 
 In this project, I developed a novel method to overcome the fundamental resolution limits in projection stereolithography (SLA) 3D printing, enabling the fabrication of features smaller than a single hardware pixel.

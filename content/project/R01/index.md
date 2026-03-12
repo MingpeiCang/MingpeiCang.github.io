@@ -7,6 +7,7 @@ tags:
   - Buckling strength
   - Mechanical metamaterials
   - Powder bed fusion
+  - lead-project
 ---
 
 This project focuses on analysis and optimization of thin struts in lattice core sandwich panels. Lightweight lattice cores are easy to fail by buckling due to its long slenderness ratio. We optimized thin struts in lattice core sandwich structures to improve buckling resistance. The key innovation was an efficient, bottom-up methodology that avoids computationally expensive optimizations on entire structures.

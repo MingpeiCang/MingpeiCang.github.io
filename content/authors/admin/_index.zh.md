@@ -109,7 +109,7 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: 猫咪
-        description: '联合创立校园流浪动物保护社团：科广喵喵叫，负责管理校内动物（流浪猫为主）的绝育、领养、和顶点投喂。'
+        description: '联合创立校园流浪动物保护社团：科广喵喵叫，负责管理校内动物（流浪猫为主）的绝育、领养、和定点投喂。'
         percent: 100
         icon: cat
       - name: 摄影
@@ -124,7 +124,7 @@ skills:
 languages:
   - name: 中文（普通话）
     percent: 100
-  - name: 英语（科研工作）
+  - name: 英语
     percent: 80
 
 awards:
@@ -142,7 +142,7 @@ awards:
     date: '2019-11-01'
     awarder: 中华人民共和国教育部
     summary: |
-      本科阶段成绩位于大连理工大学前 10%，并且在学生工作、社会服务等方面表现突出。
+      本科阶段学习成绩突出（班级前10%），并且在学生工作、社会服务等方面表现突出。
 
 ---
 

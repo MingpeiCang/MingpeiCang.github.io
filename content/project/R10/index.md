@@ -5,6 +5,7 @@ date: 2023-08-01
 tags:
   - SLA in-situ Monitoring 
   - Stereolithography 3D printing
+  - lead-project
 ---
 
 This project focuses on developing in-situ monitoring methods for Stereolithography (SLA) 3D printing, with an emphasis on porosity detection and 3D reconstruction of printed part. 

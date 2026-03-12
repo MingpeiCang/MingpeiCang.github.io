@@ -57,12 +57,24 @@ sections:
   #     view: article-grid
   #     columns: 2
   - block: collection
-    id: projects
+    id: projects-lead
     content:
-      title: Projects
+      title: Lead Projects
       filters:
         folders:
           - project
+        tag: lead-project
+    design:
+      view: article-grid
+      columns: 3
+  - block: collection
+    id: projects-participating
+    content:
+      title: Participating Projects
+      filters:
+        folders:
+          - project
+        tag: participating-project
     design:
       view: article-grid
       columns: 3

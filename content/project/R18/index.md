@@ -6,6 +6,7 @@ tags:
   - Geometry processing
   - Bio-mimicking lattice design
   - 3D data visualization
+  - participating-project
 ---
 
 In this project, I engineered advanced bone-mimicking scaffolds by integrating computational geometry analysis with implicit modeling techniques. My primary role was to define and replicate the precise topological features of native bone to create functionally superior lattice structures for tissue engineering.
