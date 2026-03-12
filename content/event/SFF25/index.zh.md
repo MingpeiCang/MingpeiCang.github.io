@@ -13,7 +13,7 @@ address:
 projects:
 - R17
 
-summary: 在 36th Annual International Solid Freeform Fabrication Symposium 的口头报告
+summary: 在 36th Annual International Solid Freeform Fabrication Symposium 的主题报告（oral presentation）
 abstract: '在面投影光固化中，反应物扩散与像素高斯辐照会限制特征尺寸逼近标称光学分辨率。为此，我们建立了涵盖高斯像素辐照、纳米颗粒散射与自由基扩散效应的反应-扩散模型，用于在时空域预测并可视化光聚合过程（达到亚像素级空间分辨）。基于该模型，我们提出灰度补偿与分段曝光策略，首次实现 0.8 pixel 负特征与 0.2 pixel 正特征制造；同时在常规 top-down 系统上实现连续制造，无需氧渗透膜、惰性液床或声学气量调制。该方法已成功制造免装配行星齿轮与微流道结构。'
 
 date: '2025-08-13T16:30:00Z'
@@ -30,9 +30,9 @@ tags: []
 featured: false
 
 image:
-  caption: '口头报告现场'
+  caption: '主题报告（oral presentation）现场'
   focal_point: Right
 
 ---
 
-![口头报告现场](photo_at_the_event.jpeg "口头报告现场")
+![主题报告（oral presentation）现场](photo_at_the_event.jpeg "主题报告（oral presentation）现场")

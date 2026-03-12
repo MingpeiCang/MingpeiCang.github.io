@@ -1,12 +1,12 @@
 main:
   - name: 简介
-    url: /
+    url: ''
     weight: 10
   - name: 论文
-    url: /#papers
+    url: '#papers'
     weight: 11
-  - name: 报告
-    url: /#talks
+  - name: 学术报告
+    url: '#talks'
     weight: 12
   - name: 经历
     url: experience/
