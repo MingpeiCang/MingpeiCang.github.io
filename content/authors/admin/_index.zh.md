@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 博士，智能制造方向（跨学科自选课程）
+role: 博士研究生，智能制造方向（跨学科自选课程）
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -43,7 +43,7 @@ interests:
   - 点阵结构设计
 
 education:
-  - area: 博士，智能制造方向（跨学科自选课程）
+  - area: 博士研究生，智能制造方向（跨学科自选课程）
     institution: 香港科技大学
     date_start: 2021-09-01
     date_end: 2026-08-31
