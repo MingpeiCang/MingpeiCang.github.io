@@ -253,7 +253,7 @@ awards:
     awarder: Fok Ying Tung Graduate School of HKUST
     # icon: coursera
     summary: |
-      I received postgraduate schorship during my PhD study.
+      I received a postgraduate scholarship during my PhD study.
   - title: Outstanding graduate of Dalian City
     date: '2021-06-01'
     awarder: Department of Education of Dalian
@@ -265,7 +265,7 @@ awards:
     awarder: Ministry of Education of China
     # icon: edx
     summary: |
-      I was among the top 10% students during my undergraduate study in Dalian Univeristy of Technology. 
+      I was among the top 10% of students during my undergraduate study at Dalian University of Technology.
 #       - Synthesize your own blockchain solutions
 #       - Gain an in-depth understanding of the specific mechanics of Bitcoin
 #       - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
@@ -282,6 +282,6 @@ awards:
 
 ## About Me
 
-Mingpei Cang is a PhD candidate in smart manufacturing at the Hong Kong University of Science and Technology. His research interests include process optimization of high-resolution projection SLA 3D printer, development of in-situ monitoring solutions for SLA 3D printing, and design of mechanical metamaterials.  
+Mingpei Cang is a PhD candidate in smart manufacturing at the Hong Kong University of Science and Technology. His research interests include process optimization for high-resolution projection SLA 3D printing, development of in-situ monitoring solutions for SLA 3D printing, and design of mechanical metamaterials.  
 
 <!-- Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->

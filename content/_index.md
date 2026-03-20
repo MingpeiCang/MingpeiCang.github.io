@@ -35,16 +35,33 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        I'm a PhD candidate in Smart Manufacturing at the Hong Kong University of Science and Technology, where I work on high-precision projection stereolithography and mechanical metamaterials under supervison of Dr. Huachen Cui and Prof. Michael Yu Wang.
+        I'm a PhD candidate in Smart Manufacturing at the Hong Kong University of Science and Technology, where I work on high-precision projection stereolithography and mechanical metamaterials under the supervision of Dr. Huachen Cui and Prof. Michael Yu Wang.
 
-        My research focuses on 
-        1. enabling high resolution SLA via process optimizaiton, 
-        2. developing real-time in-situ monitoring systems for SLA, and 
-        3. designing high-performance lattice structures as mechanical metamaterials. 
+        My research focuses on:
+        1. enabling high-resolution SLA through process optimization,
+        2. developing real-time in-situ monitoring systems for SLA, and
+        3. designing high-performance lattice structures as mechanical metamaterials.
 
-        I'm always open to collaboration with researchers and engineers working on manufacturing science, mechanical design, or computational modeling. Please reach out to collaborate!
+        I welcome collaboration with researchers and engineers in manufacturing science, mechanical design, and computational modeling.
     design:
       columns: '1'
+  - block: cta-card
+    content:
+      title: Open to Collaboration
+      text: |-
+        I am currently open to collaboration in:
+
+        - 3D printer design
+        - 3D print process optimization
+        - SLA 3D printing automation solutions
+        - SLA surface finish and quality improvement
+      button:
+        text: Start a collaboration email
+        url: "mailto:mcang@connect.ust.hk?subject=Collaboration%20Inquiry%20from%20Website&body=Hi%20Mingpei%2C%0A%0AI%20am%20interested%20in%20collaboration%20on%20%5Btopic%5D.%0A%0ABrief%20background%3A%20%5Binstitution%20or%20team%5D.%0AProposed%20scope%3A%20%5Bone%20or%20two%20sentences%5D.%0A%0ABest%20regards%2C%0A%5Byour%20name%5D"
+    design:
+      card:
+        css_class: "bg-primary-700"
+        css_style: ""
   # - block: collection
   #   id: papers
   #   content:

@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: I enjoy making things and solve problems with cross-disciplinary knowledge. Here are a selection of projects that I have worked on over the years.
+      text: I enjoy building things and solving problems with cross-disciplinary knowledge. Here is a selection of projects that I have worked on over the years.
       filters:
         folders:
           - project
