@@ -32,3 +32,9 @@ The course also includes group activities, collaborative projects, and discussio
 
 - Guided students in assembling FDM printers.
 - Demonstrated the principles and basic operations of SLA 3D printing.
+
+## My duty
+
+- Graded coursework assignments for students in the course.
+- Assisted student teams in assembling FDM printers as part of group hands-on training.
+- Supported follow-up student presentations and related course presentation sessions.
