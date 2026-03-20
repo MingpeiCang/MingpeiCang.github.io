@@ -47,8 +47,10 @@ sections:
       columns: '1'
   - block: cta-card
     content:
-      title: Open to Collaboration / Work
+      title: ""
       text: |-
+        ### Open to Collaboration / Work
+
         I am currently open to collaboration in:
 
         - 3D printer system design and process optimization
@@ -61,7 +63,7 @@ sections:
     design:
       card:
         css_class: "bg-primary-700"
-        css_style: "max-width: 57.6rem;"
+        css_style: "max-width:57.6rem; text-align:left;"
   # - block: collection
   #   id: papers
   #   content:
