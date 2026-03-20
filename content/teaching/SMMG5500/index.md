@@ -15,11 +15,6 @@ tags:
 **Period:** Sep 2023 – Jun 2024  
 **Instructor:** Dr. Huachen Cui
 
-## Course schedule
-
-- **Time:** Tue 03:00 PM – 05:50 PM
-- **Venue:** Room 102, W1
-
 ## Course introduction
 
 This course covers foundational knowledge in additive manufacturing technologies, including fused deposition modeling (FDM), two-photon polymerization, and stereolithography (SLA). It introduces the full AM workflow through model design, hardware setup (using FDM or SLA systems as examples), and part fabrication.
