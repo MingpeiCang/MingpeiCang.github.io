@@ -47,21 +47,21 @@ sections:
       columns: '1'
   - block: cta-card
     content:
-      title: Open to Collaboration
+      title: Open to Collaboration / Work
       text: |-
         I am currently open to collaboration in:
 
         - 3D printer system design and process optimization
         - Automation solutions for stereolithography (SLA) workflows
-        - Structural design and performance optimization
-        - Color, material behavior, and surface-finish engineering of SLA-printed parts
+        - Structural design and optimization (including lattice structures)
+        - Color, material, and surface-finish engineering of SLA-printed parts
       button:
-        text: Start a collaboration email
+        text: Email me
         url: "mailto:mcang@connect.ust.hk?subject=Collaboration%20Inquiry%20from%20Website&body=Hi%20Mingpei%2C%0A%0AI%20am%20interested%20in%20collaboration%20on%20%5Btopic%5D.%0A%0ABrief%20background%3A%20%5Binstitution%20or%20team%5D.%0AProposed%20scope%3A%20%5Bone%20or%20two%20sentences%5D.%0A%0ABest%20regards%2C%0A%5Byour%20name%5D"
     design:
       card:
         css_class: "bg-primary-700"
-        css_style: ""
+        css_style: "max-width: 57.6rem;"
   # - block: collection
   #   id: papers
   #   content:
