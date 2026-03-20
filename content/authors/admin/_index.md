@@ -47,8 +47,10 @@ profiles:
   #   url: https://scholar.google.com/
 
 interests:
-  - Projection stereolithography
-  - Lattice structures design
+  - SLA system design and process optimization
+  - Automation solutions for SLA workflows
+  - Structural design and optimization
+  - Color, material, and surface-finish engineering of SLA
 
 # education:
 #   - area: PhD Artificial Intelligence
@@ -282,6 +284,10 @@ awards:
 
 ## About Me
 
-Mingpei Cang is a PhD candidate in smart manufacturing at the Hong Kong University of Science and Technology. His research interests include process optimization for high-resolution projection SLA 3D printing, development of in-situ monitoring solutions for SLA 3D printing, and design of mechanical metamaterials.  
+Passionate PhD candidate at the Hong Kong University of Science and Technology specializing in the intersection of **Additive Manufacturing** and **Mechanical Metamaterials**.
+
+My expertise spans the entire R&D lifecycle: from **lattice structure** design and Finite Element Methods (**FEM**) to stereolithography (**SLA**) 3D printing process optimization and **mechanical testing**. I bring deep, hands-on experience in vat photopolymerization, having designed and built custom SLA 3D printing systems from the ground up during my PhD training.
+
+I am currently **open to work** and eager to explore new opportunities or collaborations in the advanced structural design and manufacturing space.
 
 <!-- Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
