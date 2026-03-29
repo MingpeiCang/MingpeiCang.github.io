@@ -13,7 +13,7 @@ sections:
       text: ""
       button:
         text: 下载简历
-        url: uploads/resume.pdf
+        url: /uploads/resume.pdf
     design:
       css_class: dark
       background:
