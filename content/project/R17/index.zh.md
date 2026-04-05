@@ -16,6 +16,7 @@ tags:
 - 使预装配齿轮组等传统上难以实现的结构成为可能。
 
 相关论文：
-- Coming soon.
+- 本项目相关论文已被 *International Journal of Extreme Manufacturing* 有条件接收。
+- 论文目前尚未公开，待正式上线后将补充完整引文与链接。
 
 <!--more-->

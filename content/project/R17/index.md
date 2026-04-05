@@ -14,6 +14,7 @@ Impact: This work redefines the print capabilities of projection SLA. The techni
 <!-- ![Project Overview](featured.png "Project Overview") -->
 
 Publications related to this project:
-- Coming soon.
+- A paper based on this project has been conditionally accepted by *International Journal of Extreme Manufacturing*.
+- The article is not public yet; the full citation and link will be added once it is officially released.
 
 <!--more-->
