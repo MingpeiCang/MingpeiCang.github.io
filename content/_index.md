@@ -87,6 +87,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-
+        {{< visitor_map >}}
+    design:
+      columns: '1'
+      spacing:
+        padding: ['1rem', '0', '0', '0']
   # - block: collection
   #   id: news
   #   content:
