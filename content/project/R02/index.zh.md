@@ -23,6 +23,17 @@ tags:
 ### 实验验证（合作团队完成）
 合作团队完成试样制备与压缩实验，实验趋势与数值预测一致，验证了该方法在“可制造性—力学性能”协同优化方面的有效性。
 
+{{< video_gallery
+  title="代表性变形视频"
+  intro="展示三种代表性拓扑穿孔板点阵在压缩过程中的响应。"
+  src1="/uploads/r02-plate-lattice/bcc-combined.mp4"
+  caption1="BCC 穿孔板点阵"
+  src2="/uploads/r02-plate-lattice/fcc-combined.mp4"
+  caption2="FCC 穿孔板点阵"
+  src3="/uploads/r02-plate-lattice/sc-combined.mp4"
+  caption3="SC 穿孔板点阵"
+>}}
+
 相关论文：
 - 10.1016/j.matdes.2024.113544
 

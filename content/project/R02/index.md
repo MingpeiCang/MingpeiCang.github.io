@@ -26,6 +26,17 @@ In this project, we developed and validated a novel design methodology to enhanc
 ⦁ We fabricated the optimized lattice specimens using μ-LPBF with SS316L powder.
 ⦁ Through quasi-static compression testing, we experimentally verified that the fabricated lattices exhibit superior mechanical properties.
 
+{{< video_gallery
+  title="Representative deformation videos"
+  intro="Compression responses of the optimized perforated plate lattices under three representative topologies."
+  src1="/uploads/r02-plate-lattice/bcc-combined.mp4"
+  caption1="BCC perforated plate lattice"
+  src2="/uploads/r02-plate-lattice/fcc-combined.mp4"
+  caption2="FCC perforated plate lattice"
+  src3="/uploads/r02-plate-lattice/sc-combined.mp4"
+  caption3="SC perforated plate lattice"
+>}}
+
 Publications related to this project:
 - 10.1016/j.matdes.2024.113544
 
